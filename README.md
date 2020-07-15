@@ -1,8 +1,8 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
-- 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Go, Git and Python**
+- 🔭 I’m currently working on **Project microservitization**
+- 🌱 I’m currently learning **K8s,docker and Linux**
+- 💬 Ask me about **CSharp, docker, Micro service and Python**
 - 📫 How to reach me: [@zhangchengzhi](https://zcz-distance@qq.com) on QQ :smirk:
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
@@ -26,5 +26,5 @@ section 项目微服务
 CSharp :a1,2020-07-07, 8h
 GithubStudy :a1,10h
 ```
-
+<u>Not Support `mermaid`</u>
 ---
