@@ -23,8 +23,8 @@ gantt
 title 甘特图
 dateFormat YYYY-MM-DD hh:mm:ss
 section 项目微服务
-CSharp :a1,2020-07-07, 8h
-GithubStudy :a1,10h
+CSharp:done,a1,2020-07-07, 8h
+GithubStudy:active,a2,after a1,2h
 ```
 
 ---
