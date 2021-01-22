@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Project microservitization**
 - 🌱 I’m currently learning **K8s,docker and Linux**
 - 💬 Ask me about **CSharp, docker, Micro service and Python**
-- 📫 How to reach me: [@zhangchengzhi](https://zcz-distance@qq.com) on QQ :smirk:
+- 📫 How to reach me: `zczhi2020@gmail.com` on Gmail :smirk:
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 ---
